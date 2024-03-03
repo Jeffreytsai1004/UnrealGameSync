@@ -1,7 +1,0 @@
-E:\Zoroot\UE\UnrealGameSync\PostBadgeStatus\bin\Release\PostBadgeStatus.exe.config
-E:\Zoroot\UE\UnrealGameSync\PostBadgeStatus\bin\Release\PostBadgeStatus.exe
-E:\Zoroot\UE\UnrealGameSync\PostBadgeStatus\bin\Release\PostBadgeStatus.pdb
-E:\Zoroot\UE\UnrealGameSync\PostBadgeStatus\obj\Release\PostBadgeStatus.csproj.AssemblyReference.cache
-E:\Zoroot\UE\UnrealGameSync\PostBadgeStatus\obj\Release\PostBadgeStatus.csproj.CoreCompileInputs.cache
-E:\Zoroot\UE\UnrealGameSync\PostBadgeStatus\obj\Release\PostBadgeStatus.exe
-E:\Zoroot\UE\UnrealGameSync\PostBadgeStatus\obj\Release\PostBadgeStatus.pdb
