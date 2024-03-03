@@ -1,0 +1,12 @@
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSyncAutomation\bin\Debug\netcoreapp3.1\UnrealGameSyncAutomation.exe
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSyncAutomation\bin\Debug\netcoreapp3.1\UnrealGameSyncAutomation.dll.config
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSyncAutomation\bin\Debug\netcoreapp3.1\UnrealGameSyncAutomation.deps.json
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSyncAutomation\bin\Debug\netcoreapp3.1\UnrealGameSyncAutomation.runtimeconfig.json
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSyncAutomation\bin\Debug\netcoreapp3.1\UnrealGameSyncAutomation.runtimeconfig.dev.json
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSyncAutomation\bin\Debug\netcoreapp3.1\UnrealGameSyncAutomation.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSyncAutomation\bin\Debug\netcoreapp3.1\UnrealGameSyncAutomation.pdb
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSyncAutomation\obj\Debug\netcoreapp3.1\UnrealGameSyncAutomation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSyncAutomation\obj\Debug\netcoreapp3.1\UnrealGameSyncAutomation.csproj.CoreCompileInputs.cache
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSyncAutomation\obj\Debug\netcoreapp3.1\UnrealGameSyncAutomation.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSyncAutomation\obj\Debug\netcoreapp3.1\UnrealGameSyncAutomation.pdb
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSyncAutomation\obj\Debug\netcoreapp3.1\UnrealGameSyncAutomation.genruntimeconfig.cache

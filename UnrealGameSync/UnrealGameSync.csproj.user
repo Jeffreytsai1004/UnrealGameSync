@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Controls\AlertButtonControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\AlertImageControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\BuildListControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\ErrorPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\LogControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\LogSplitContainer.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\RichTextBox41.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\SyncFilterControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\TabControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\TextBoxWithCueBanner.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\ApplicationSettingsWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ArgumentsWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AutomatedBuildWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AutomatedSyncWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\BuildStepWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ChangelistWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CleanWorkspaceWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ClobberWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ConnectWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\DeleteWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\DiagnosticsWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FailedToDeleteWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\IssueAlertWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\IssueBrowserWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\IssueDetailsWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\IssueFixedWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\IssueSettingsWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\LauncherUpdateWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\LeaveCommentWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\MainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ModalTaskWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ModifyBuildStepsWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\NewWorkspaceWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\NotificationWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\OpenProjectWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\PasswordWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\PerforceSyncSettingsWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ProgramsRunningWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ScheduleWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SdkInfoWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SelectProjectFromWorkspaceWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SelectStreamWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SelectUserWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SelectWorkspaceWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SyncFilter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SyncFilterSyntax.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\VariablesWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

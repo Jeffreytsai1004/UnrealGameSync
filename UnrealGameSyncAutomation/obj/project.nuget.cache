@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hx+TOCKxuKpN1VZcmyk4oOxqU34YyEtIAAfHieCsXiENCFbi8z+azZbhp68vklYJNcSmSzTjff8WaX6fjxZhVQ==",
+  "success": true,
+  "projectFilePath": "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSyncAutomation\\UnrealGameSyncAutomation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeffr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\jeffr\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\jeffr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
