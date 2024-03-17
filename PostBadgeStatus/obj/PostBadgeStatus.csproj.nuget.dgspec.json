@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSync\\PostBadgeStatus\\PostBadgeStatus.csproj": {}
+  },
+  "projects": {
+    "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSync\\PostBadgeStatus\\PostBadgeStatus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSync\\PostBadgeStatus\\PostBadgeStatus.csproj",
+        "projectName": "PostBadgeStatus",
+        "projectPath": "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSync\\PostBadgeStatus\\PostBadgeStatus.csproj",
+        "packagesPath": "C:\\Users\\jeffr\\.nuget\\packages\\",
+        "outputPath": "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSync\\PostBadgeStatus\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jeffr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

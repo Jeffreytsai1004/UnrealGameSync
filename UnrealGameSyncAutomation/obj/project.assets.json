@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    "net6.0-windows7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    "net6.0-windows7.0": []
   },
   "packageFolders": {
     "C:\\Users\\jeffr\\.nuget\\packages\\": {},
@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSyncAutomation\\UnrealGameSyncAutomation.csproj",
+      "projectUniqueName": "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSync\\UnrealGameSyncAutomation\\UnrealGameSyncAutomation.csproj",
       "projectName": "UnrealGameSyncAutomation",
-      "projectPath": "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSyncAutomation\\UnrealGameSyncAutomation.csproj",
+      "projectPath": "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSync\\UnrealGameSyncAutomation\\UnrealGameSyncAutomation.csproj",
       "packagesPath": "C:\\Users\\jeffr\\.nuget\\packages\\",
-      "outputPath": "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSyncAutomation\\obj\\",
+      "outputPath": "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSync\\UnrealGameSyncAutomation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -29,15 +29,15 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.1"
+        "net6.0-windows"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
           "projectReferences": {}
         }
       },
@@ -48,8 +48,8 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
         "imports": [
           "net461",
           "net462",
@@ -61,20 +61,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.10, 3.1.10]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -83,7 +69,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

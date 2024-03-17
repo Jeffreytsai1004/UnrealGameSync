@@ -1,4 +1,3 @@
-﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
@@ -16,9 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnrealGameSyncAutomation", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{86C488DC-E003-4A1E-919E-A04960D03479}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetadataServer", "MetadataServer\MetadataServer.csproj", "{C8D13E98-C8CD-42FB-9C79-F3EB11B0F3E8}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostBadgeStatus", "PostBadgeStatus\PostBadgeStatus.csproj", "{DCBE3437-5DBF-41B4-B854-967BC0C93C48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetadataServer", "MetadataServer\MetadataServer.csproj", "{C8D13E98-C8CD-42FB-9C79-F3EB11B0F3E8}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Installer", "Installer\Installer.vcxproj", "{4452DA05-A606-4865-BC9D-D46816851B7D}"
 EndProject
@@ -37,6 +34,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EpicGames.Perforce", "Shared\EpicGames.Perforce\EpicGames.Perforce.csproj", "{445A1741-A796-46AE-9488-3830F1A31C86}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EpicGames.Serialization", "Shared\EpicGames.Serialization\EpicGames.Serialization.csproj", "{DAADB42E-10AC-4185-8C1F-C54E18574803}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostBadgeStatus", "PostBadgeStatus\PostBadgeStatus.csproj", "{DCBE3437-5DBF-41B4-B854-967BC0C93C48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -114,22 +113,6 @@ Global
 		{C8D13E98-C8CD-42FB-9C79-F3EB11B0F3E8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C8D13E98-C8CD-42FB-9C79-F3EB11B0F3E8}.Release|x64.ActiveCfg = Release|Any CPU
 		{C8D13E98-C8CD-42FB-9C79-F3EB11B0F3E8}.Release|x64.Build.0 = Release|Any CPU
-		{DCBE3437-5DBF-41B4-B854-967BC0C93C48}.Analyze|Any CPU.ActiveCfg = Release|Any CPU
-		{DCBE3437-5DBF-41B4-B854-967BC0C93C48}.Analyze|Any CPU.Build.0 = Release|Any CPU
-		{DCBE3437-5DBF-41B4-B854-967BC0C93C48}.Analyze|x64.ActiveCfg = Release|Any CPU
-		{DCBE3437-5DBF-41B4-B854-967BC0C93C48}.Analyze|x64.Build.0 = Release|Any CPU
-		{DCBE3437-5DBF-41B4-B854-967BC0C93C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DCBE3437-5DBF-41B4-B854-967BC0C93C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DCBE3437-5DBF-41B4-B854-967BC0C93C48}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{DCBE3437-5DBF-41B4-B854-967BC0C93C48}.Debug|x64.Build.0 = Debug|Any CPU
-		{DCBE3437-5DBF-41B4-B854-967BC0C93C48}.Development|Any CPU.ActiveCfg = Debug|Any CPU
-		{DCBE3437-5DBF-41B4-B854-967BC0C93C48}.Development|Any CPU.Build.0 = Debug|Any CPU
-		{DCBE3437-5DBF-41B4-B854-967BC0C93C48}.Development|x64.ActiveCfg = Debug|Any CPU
-		{DCBE3437-5DBF-41B4-B854-967BC0C93C48}.Development|x64.Build.0 = Debug|Any CPU
-		{DCBE3437-5DBF-41B4-B854-967BC0C93C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DCBE3437-5DBF-41B4-B854-967BC0C93C48}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DCBE3437-5DBF-41B4-B854-967BC0C93C48}.Release|x64.ActiveCfg = Release|Any CPU
-		{DCBE3437-5DBF-41B4-B854-967BC0C93C48}.Release|x64.Build.0 = Release|Any CPU
 		{4452DA05-A606-4865-BC9D-D46816851B7D}.Analyze|Any CPU.ActiveCfg = Release|x64
 		{4452DA05-A606-4865-BC9D-D46816851B7D}.Analyze|Any CPU.Build.0 = Release|x64
 		{4452DA05-A606-4865-BC9D-D46816851B7D}.Analyze|x64.ActiveCfg = Release|x64
@@ -273,6 +256,22 @@ Global
 		{DAADB42E-10AC-4185-8C1F-C54E18574803}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DAADB42E-10AC-4185-8C1F-C54E18574803}.Release|x64.ActiveCfg = Release|Any CPU
 		{DAADB42E-10AC-4185-8C1F-C54E18574803}.Release|x64.Build.0 = Release|Any CPU
+		{DCBE3437-5DBF-41B4-B854-967BC0C93C48}.Analyze|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCBE3437-5DBF-41B4-B854-967BC0C93C48}.Analyze|Any CPU.Build.0 = Debug|Any CPU
+		{DCBE3437-5DBF-41B4-B854-967BC0C93C48}.Analyze|x64.ActiveCfg = Debug|Any CPU
+		{DCBE3437-5DBF-41B4-B854-967BC0C93C48}.Analyze|x64.Build.0 = Debug|Any CPU
+		{DCBE3437-5DBF-41B4-B854-967BC0C93C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCBE3437-5DBF-41B4-B854-967BC0C93C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCBE3437-5DBF-41B4-B854-967BC0C93C48}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DCBE3437-5DBF-41B4-B854-967BC0C93C48}.Debug|x64.Build.0 = Debug|Any CPU
+		{DCBE3437-5DBF-41B4-B854-967BC0C93C48}.Development|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCBE3437-5DBF-41B4-B854-967BC0C93C48}.Development|Any CPU.Build.0 = Debug|Any CPU
+		{DCBE3437-5DBF-41B4-B854-967BC0C93C48}.Development|x64.ActiveCfg = Debug|Any CPU
+		{DCBE3437-5DBF-41B4-B854-967BC0C93C48}.Development|x64.Build.0 = Debug|Any CPU
+		{DCBE3437-5DBF-41B4-B854-967BC0C93C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCBE3437-5DBF-41B4-B854-967BC0C93C48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCBE3437-5DBF-41B4-B854-967BC0C93C48}.Release|x64.ActiveCfg = Release|Any CPU
+		{DCBE3437-5DBF-41B4-B854-967BC0C93C48}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

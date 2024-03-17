@@ -1,14 +1,9 @@
 ﻿// Copyright Epic Games, Inc. All Rights Reserved.
 
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-
 namespace MetadataServer.Models
 {
-	public class EventData
-	{
+    public class EventData
+    {
 		public enum EventType
 		{
 			Syncing,
@@ -28,7 +23,7 @@ namespace MetadataServer.Models
 			Investigating,
 			Resolved,
 		}
-		
+
 		public long Id;
 		public int Change;
 		public string UserName;

@@ -1,0 +1,114 @@
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\appsettings.Development.json
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\appsettings.json
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\MetadataServer.staticwebassets.runtime.json
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\MetadataServer.exe
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\MetadataServer.deps.json
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\MetadataServer.runtimeconfig.json
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\MetadataServer.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\MetadataServer.pdb
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\Google.Protobuf.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\MySql.Data.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\System.Text.Json.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\ZstdSharp.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\obj\Debug\net6.0\MetadataServer.csproj.AssemblyReference.cache
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\obj\Debug\net6.0\MetadataServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\obj\Debug\net6.0\MetadataServer.AssemblyInfoInputs.cache
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\obj\Debug\net6.0\MetadataServer.AssemblyInfo.cs
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\obj\Debug\net6.0\MetadataServer.csproj.CoreCompileInputs.cache
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\obj\Debug\net6.0\MetadataServer.MvcApplicationPartsAssemblyInfo.cache
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\obj\Debug\net6.0\MetadataServer.RazorAssemblyInfo.cache
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\obj\Debug\net6.0\MetadataServer.RazorAssemblyInfo.cs
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\obj\Debug\net6.0\MetadataServer.sourcelink.json
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\obj\Debug\net6.0\staticwebassets.build.json
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\obj\Debug\net6.0\staticwebassets.development.json
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\obj\Debug\net6.0\staticwebassets\msbuild.MetadataServer.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\obj\Debug\net6.0\staticwebassets\msbuild.build.MetadataServer.props
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MetadataServer.props
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MetadataServer.props
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\obj\Debug\net6.0\scopedcss\bundle\MetadataServer.styles.css
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\obj\Debug\net6.0\MetadataServer.csproj.CopyComplete
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\obj\Debug\net6.0\MetadataServer.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\obj\Debug\net6.0\refint\MetadataServer.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\obj\Debug\net6.0\MetadataServer.pdb
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\obj\Debug\net6.0\MetadataServer.genruntimeconfig.cache
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_UE5.3.2\MetadataServer\obj\Debug\net6.0\ref\MetadataServer.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\appsettings.Development.json
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\appsettings.json
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\MetadataServer.staticwebassets.runtime.json
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\MetadataServer.exe
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\MetadataServer.deps.json
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\MetadataServer.runtimeconfig.json
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\MetadataServer.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\MetadataServer.pdb
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\Google.Protobuf.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\MySql.Data.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\System.Text.Json.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\ZstdSharp.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\obj\Debug\net6.0\MetadataServer.csproj.AssemblyReference.cache
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\obj\Debug\net6.0\MetadataServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\obj\Debug\net6.0\MetadataServer.AssemblyInfoInputs.cache
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\obj\Debug\net6.0\MetadataServer.AssemblyInfo.cs
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\obj\Debug\net6.0\MetadataServer.csproj.CoreCompileInputs.cache
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\obj\Debug\net6.0\MetadataServer.MvcApplicationPartsAssemblyInfo.cache
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\obj\Debug\net6.0\MetadataServer.RazorAssemblyInfo.cache
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\obj\Debug\net6.0\MetadataServer.RazorAssemblyInfo.cs
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\obj\Debug\net6.0\MetadataServer.sourcelink.json
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\obj\Debug\net6.0\staticwebassets.build.json
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\obj\Debug\net6.0\staticwebassets.development.json
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\obj\Debug\net6.0\staticwebassets\msbuild.MetadataServer.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\obj\Debug\net6.0\staticwebassets\msbuild.build.MetadataServer.props
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MetadataServer.props
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MetadataServer.props
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\obj\Debug\net6.0\scopedcss\bundle\MetadataServer.styles.css
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\obj\Debug\net6.0\MetadataServer.csproj.CopyComplete
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\obj\Debug\net6.0\MetadataServer.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\obj\Debug\net6.0\refint\MetadataServer.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\obj\Debug\net6.0\MetadataServer.pdb
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\obj\Debug\net6.0\MetadataServer.genruntimeconfig.cache
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\MetadataServer\obj\Debug\net6.0\ref\MetadataServer.dll

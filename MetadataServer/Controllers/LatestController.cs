@@ -1,21 +1,27 @@
 ﻿// Copyright Epic Games, Inc. All Rights Reserved.
+// Modifications Copyright CodeWareGames. All Rights Reserved.
 
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net;
-using System.Net.Http;
-using System.Web.Http;
+using Microsoft.AspNetCore.Mvc;
+using System.Threading.Tasks;
 using MetadataServer.Connectors;
 using MetadataServer.Models;
 
 namespace MetadataServer.Controllers
 {
-    public class LatestController : ApiController
+    [Route("api/[controller]")]
+    [ApiController]
+    public class LatestController : ControllerBase
     {
-		public LatestData Get(string Project = null)
-		{
-			return SqlConnector.GetLastIds(Project);
-		}
-	}
+        private readonly IMySqlConnector _MySqlConnector;
+        public LatestController(IMySqlConnector MySqlConnector)
+        {
+            _MySqlConnector = MySqlConnector;
+        }
+
+        [HttpGet]
+        public async Task<LatestData> Get(string Project = null)
+        {
+            return await _MySqlConnector.GetLastIds(Project);
+        }
+    }
 }

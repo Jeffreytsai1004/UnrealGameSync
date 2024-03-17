@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EpicGames.Core
-build_property.ProjectDir = E:\Zoroot\UE\UnrealGameSync\Shared\EpicGames.IoHash\
+build_property.ProjectDir = E:\Zoroot\UE\UnrealGameSync\UnrealGameSync\Shared\EpicGames.IoHash\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

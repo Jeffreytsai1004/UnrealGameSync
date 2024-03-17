@@ -28,3 +28,19 @@ E:\Zoroot\UE\UnrealGameSync\Shared\EpicGames.Serialization\obj\Debug\net6.0\Epic
 E:\Zoroot\UE\UnrealGameSync\Shared\EpicGames.Serialization\obj\Debug\net6.0\refint\EpicGames.Serialization.dll
 E:\Zoroot\UE\UnrealGameSync\Shared\EpicGames.Serialization\obj\Debug\net6.0\EpicGames.Serialization.pdb
 E:\Zoroot\UE\UnrealGameSync\Shared\EpicGames.Serialization\obj\Debug\net6.0\ref\EpicGames.Serialization.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\Shared\EpicGames.Serialization\bin\Debug\net6.0\EpicGames.Serialization.deps.json
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\Shared\EpicGames.Serialization\bin\Debug\net6.0\EpicGames.Serialization.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\Shared\EpicGames.Serialization\bin\Debug\net6.0\EpicGames.Serialization.pdb
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\Shared\EpicGames.Serialization\bin\Debug\net6.0\EpicGames.Core.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\Shared\EpicGames.Serialization\bin\Debug\net6.0\EpicGames.IoHash.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\Shared\EpicGames.Serialization\bin\Debug\net6.0\EpicGames.IoHash.pdb
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\Shared\EpicGames.Serialization\bin\Debug\net6.0\EpicGames.Core.pdb
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\Shared\EpicGames.Serialization\obj\Debug\net6.0\EpicGames.Serialization.csproj.AssemblyReference.cache
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\Shared\EpicGames.Serialization\obj\Debug\net6.0\EpicGames.Serialization.GeneratedMSBuildEditorConfig.editorconfig
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\Shared\EpicGames.Serialization\obj\Debug\net6.0\EpicGames.Serialization.csproj.CoreCompileInputs.cache
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\Shared\EpicGames.Serialization\obj\Debug\net6.0\EpicGames.Serialization.sourcelink.json
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\Shared\EpicGames.Serialization\obj\Debug\net6.0\EpicGames.Serialization.csproj.CopyComplete
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\Shared\EpicGames.Serialization\obj\Debug\net6.0\EpicGames.Serialization.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\Shared\EpicGames.Serialization\obj\Debug\net6.0\refint\EpicGames.Serialization.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\Shared\EpicGames.Serialization\obj\Debug\net6.0\EpicGames.Serialization.pdb
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\Shared\EpicGames.Serialization\obj\Debug\net6.0\ref\EpicGames.Serialization.dll

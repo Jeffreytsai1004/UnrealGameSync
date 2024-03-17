@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = UnrealGameSync
-build_property.ProjectDir = E:\Zoroot\UE\UnrealGameSync\UnrealGameSync\
+build_property.ProjectDir = E:\Zoroot\UE\UnrealGameSync\UnrealGameSync\UnrealGameSync\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

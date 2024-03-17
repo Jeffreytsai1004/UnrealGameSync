@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSyncShared\\UnrealGameSyncShared.csproj": {}
+    "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSync\\UnrealGameSyncShared\\UnrealGameSyncShared.csproj": {}
   },
   "projects": {
-    "E:\\Zoroot\\UE\\UnrealGameSync\\Shared\\EpicGames.Core\\EpicGames.Core.csproj": {
+    "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSync\\Shared\\EpicGames.Core\\EpicGames.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Zoroot\\UE\\UnrealGameSync\\Shared\\EpicGames.Core\\EpicGames.Core.csproj",
+        "projectUniqueName": "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSync\\Shared\\EpicGames.Core\\EpicGames.Core.csproj",
         "projectName": "EpicGames.Core",
-        "projectPath": "E:\\Zoroot\\UE\\UnrealGameSync\\Shared\\EpicGames.Core\\EpicGames.Core.csproj",
+        "projectPath": "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSync\\Shared\\EpicGames.Core\\EpicGames.Core.csproj",
         "packagesPath": "C:\\Users\\jeffr\\.nuget\\packages\\",
-        "outputPath": "E:\\Zoroot\\UE\\UnrealGameSync\\Shared\\EpicGames.Core\\obj\\",
+        "outputPath": "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSync\\Shared\\EpicGames.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -85,18 +85,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Zoroot\\UE\\UnrealGameSync\\Shared\\EpicGames.OIDC\\EpicGames.OIDC.csproj": {
+    "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSync\\Shared\\EpicGames.OIDC\\EpicGames.OIDC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Zoroot\\UE\\UnrealGameSync\\Shared\\EpicGames.OIDC\\EpicGames.OIDC.csproj",
+        "projectUniqueName": "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSync\\Shared\\EpicGames.OIDC\\EpicGames.OIDC.csproj",
         "projectName": "EpicGames.OIDC",
-        "projectPath": "E:\\Zoroot\\UE\\UnrealGameSync\\Shared\\EpicGames.OIDC\\EpicGames.OIDC.csproj",
+        "projectPath": "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSync\\Shared\\EpicGames.OIDC\\EpicGames.OIDC.csproj",
         "packagesPath": "C:\\Users\\jeffr\\.nuget\\packages\\",
-        "outputPath": "E:\\Zoroot\\UE\\UnrealGameSync\\Shared\\EpicGames.OIDC\\obj\\",
+        "outputPath": "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSync\\Shared\\EpicGames.OIDC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -166,18 +166,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Zoroot\\UE\\UnrealGameSync\\Shared\\EpicGames.Perforce\\EpicGames.Perforce.csproj": {
+    "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSync\\Shared\\EpicGames.Perforce\\EpicGames.Perforce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Zoroot\\UE\\UnrealGameSync\\Shared\\EpicGames.Perforce\\EpicGames.Perforce.csproj",
+        "projectUniqueName": "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSync\\Shared\\EpicGames.Perforce\\EpicGames.Perforce.csproj",
         "projectName": "EpicGames.Perforce",
-        "projectPath": "E:\\Zoroot\\UE\\UnrealGameSync\\Shared\\EpicGames.Perforce\\EpicGames.Perforce.csproj",
+        "projectPath": "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSync\\Shared\\EpicGames.Perforce\\EpicGames.Perforce.csproj",
         "packagesPath": "C:\\Users\\jeffr\\.nuget\\packages\\",
-        "outputPath": "E:\\Zoroot\\UE\\UnrealGameSync\\Shared\\EpicGames.Perforce\\obj\\",
+        "outputPath": "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSync\\Shared\\EpicGames.Perforce\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -198,8 +198,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Zoroot\\UE\\UnrealGameSync\\Shared\\EpicGames.Core\\EpicGames.Core.csproj": {
-                "projectPath": "E:\\Zoroot\\UE\\UnrealGameSync\\Shared\\EpicGames.Core\\EpicGames.Core.csproj"
+              "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSync\\Shared\\EpicGames.Core\\EpicGames.Core.csproj": {
+                "projectPath": "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSync\\Shared\\EpicGames.Core\\EpicGames.Core.csproj"
               }
             }
           }
@@ -239,18 +239,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSyncShared\\UnrealGameSyncShared.csproj": {
+    "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSync\\UnrealGameSyncShared\\UnrealGameSyncShared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSyncShared\\UnrealGameSyncShared.csproj",
+        "projectUniqueName": "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSync\\UnrealGameSyncShared\\UnrealGameSyncShared.csproj",
         "projectName": "UnrealGameSyncShared",
-        "projectPath": "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSyncShared\\UnrealGameSyncShared.csproj",
+        "projectPath": "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSync\\UnrealGameSyncShared\\UnrealGameSyncShared.csproj",
         "packagesPath": "C:\\Users\\jeffr\\.nuget\\packages\\",
-        "outputPath": "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSyncShared\\obj\\",
+        "outputPath": "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSync\\UnrealGameSyncShared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -271,14 +271,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Zoroot\\UE\\UnrealGameSync\\Shared\\EpicGames.Core\\EpicGames.Core.csproj": {
-                "projectPath": "E:\\Zoroot\\UE\\UnrealGameSync\\Shared\\EpicGames.Core\\EpicGames.Core.csproj"
+              "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSync\\Shared\\EpicGames.Core\\EpicGames.Core.csproj": {
+                "projectPath": "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSync\\Shared\\EpicGames.Core\\EpicGames.Core.csproj"
               },
-              "E:\\Zoroot\\UE\\UnrealGameSync\\Shared\\EpicGames.OIDC\\EpicGames.OIDC.csproj": {
-                "projectPath": "E:\\Zoroot\\UE\\UnrealGameSync\\Shared\\EpicGames.OIDC\\EpicGames.OIDC.csproj"
+              "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSync\\Shared\\EpicGames.OIDC\\EpicGames.OIDC.csproj": {
+                "projectPath": "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSync\\Shared\\EpicGames.OIDC\\EpicGames.OIDC.csproj"
               },
-              "E:\\Zoroot\\UE\\UnrealGameSync\\Shared\\EpicGames.Perforce\\EpicGames.Perforce.csproj": {
-                "projectPath": "E:\\Zoroot\\UE\\UnrealGameSync\\Shared\\EpicGames.Perforce\\EpicGames.Perforce.csproj"
+              "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSync\\Shared\\EpicGames.Perforce\\EpicGames.Perforce.csproj": {
+                "projectPath": "E:\\Zoroot\\UE\\UnrealGameSync\\UnrealGameSync\\Shared\\EpicGames.Perforce\\EpicGames.Perforce.csproj"
               }
             }
           }
@@ -314,7 +314,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

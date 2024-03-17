@@ -24,3 +24,17 @@ E:\Zoroot\UE\UnrealGameSync\Shared\EpicGames.IoHash\obj\Release\net6.0\EpicGames
 E:\Zoroot\UE\UnrealGameSync\Shared\EpicGames.IoHash\obj\Release\net6.0\refint\EpicGames.IoHash.dll
 E:\Zoroot\UE\UnrealGameSync\Shared\EpicGames.IoHash\obj\Release\net6.0\EpicGames.IoHash.pdb
 E:\Zoroot\UE\UnrealGameSync\Shared\EpicGames.IoHash\obj\Release\net6.0\ref\EpicGames.IoHash.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\Shared\EpicGames.IoHash\bin\Release\net6.0\EpicGames.IoHash.deps.json
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\Shared\EpicGames.IoHash\bin\Release\net6.0\EpicGames.IoHash.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\Shared\EpicGames.IoHash\bin\Release\net6.0\EpicGames.IoHash.pdb
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\Shared\EpicGames.IoHash\bin\Release\net6.0\EpicGames.Core.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\Shared\EpicGames.IoHash\bin\Release\net6.0\EpicGames.Core.pdb
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\Shared\EpicGames.IoHash\obj\Release\net6.0\EpicGames.IoHash.csproj.AssemblyReference.cache
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\Shared\EpicGames.IoHash\obj\Release\net6.0\EpicGames.IoHash.GeneratedMSBuildEditorConfig.editorconfig
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\Shared\EpicGames.IoHash\obj\Release\net6.0\EpicGames.IoHash.csproj.CoreCompileInputs.cache
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\Shared\EpicGames.IoHash\obj\Release\net6.0\EpicGames.IoHash.sourcelink.json
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\Shared\EpicGames.IoHash\obj\Release\net6.0\EpicGames.IoHash.csproj.CopyComplete
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\Shared\EpicGames.IoHash\obj\Release\net6.0\EpicGames.IoHash.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\Shared\EpicGames.IoHash\obj\Release\net6.0\refint\EpicGames.IoHash.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\Shared\EpicGames.IoHash\obj\Release\net6.0\EpicGames.IoHash.pdb
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\Shared\EpicGames.IoHash\obj\Release\net6.0\ref\EpicGames.IoHash.dll

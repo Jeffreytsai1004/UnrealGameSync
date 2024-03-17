@@ -1,0 +1,14 @@
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\UnrealGameSyncAutomation\bin\Debug\net6.0-windows\UnrealGameSyncAutomation.exe
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\UnrealGameSyncAutomation\bin\Debug\net6.0-windows\UnrealGameSyncAutomation.dll.config
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\UnrealGameSyncAutomation\bin\Debug\net6.0-windows\UnrealGameSyncAutomation.deps.json
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\UnrealGameSyncAutomation\bin\Debug\net6.0-windows\UnrealGameSyncAutomation.runtimeconfig.json
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\UnrealGameSyncAutomation\bin\Debug\net6.0-windows\UnrealGameSyncAutomation.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\UnrealGameSyncAutomation\bin\Debug\net6.0-windows\UnrealGameSyncAutomation.pdb
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\UnrealGameSyncAutomation\obj\Debug\net6.0-windows\UnrealGameSyncAutomation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\UnrealGameSyncAutomation\obj\Debug\net6.0-windows\UnrealGameSyncAutomation.csproj.CoreCompileInputs.cache
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\UnrealGameSyncAutomation\obj\Debug\net6.0-windows\UnrealGameSyncAutomation.sourcelink.json
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\UnrealGameSyncAutomation\obj\Debug\net6.0-windows\UnrealGameSyncAutomation.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\UnrealGameSyncAutomation\obj\Debug\net6.0-windows\refint\UnrealGameSyncAutomation.dll
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\UnrealGameSyncAutomation\obj\Debug\net6.0-windows\UnrealGameSyncAutomation.pdb
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\UnrealGameSyncAutomation\obj\Debug\net6.0-windows\UnrealGameSyncAutomation.genruntimeconfig.cache
+E:\Zoroot\UE\UnrealGameSync\UnrealGameSync_NET 6.0_UE5.3.2\UnrealGameSyncAutomation\obj\Debug\net6.0-windows\ref\UnrealGameSyncAutomation.dll

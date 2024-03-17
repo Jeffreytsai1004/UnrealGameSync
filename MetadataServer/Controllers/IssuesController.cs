@@ -1,122 +1,163 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+﻿// Copyright Epic Games, Inc. All Rights Reserved.
+// Modifications Copyright CodeWareGames. All Rights Reserved.
 
-using Newtonsoft.Json.Linq;
-using System;
+using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
-using System.Dynamic;
-using System.Linq;
-using System.Net.Http;
-using System.Web.Http;
-using System.Web.Http.Results;
+using System.Threading.Tasks;
 using MetadataServer.Connectors;
 using MetadataServer.Models;
+using MetadataServer.ActionConstraints;
 
 namespace MetadataServer.Controllers
 {
-	public class IssuesController : ApiController
-	{
-		[HttpGet]
-		public List<IssueData> Get(bool IncludeResolved = false, int MaxResults = -1)
-		{
-			return SqlConnector.GetIssues(IncludeResolved, MaxResults);
-		}
+    [Route("api/[controller]")]
+    [ApiController]
+    public class IssuesController : ControllerBase
+    {
+        private readonly IMySqlConnector _MySqlConnector;
+        public IssuesController(IMySqlConnector MySqlConnector)
+        {
+            _MySqlConnector = MySqlConnector;
+        }
 
-		[HttpGet]
-		public List<IssueData> Get(string User)
-		{
-			return SqlConnector.GetIssues(User);
-		}
+        [HttpGet]
+        public async Task<List<IssueData>> Get([FromQuery] bool IncludeResolved = false, [FromQuery] int MaxResults = -1)
+        {
+            return await _MySqlConnector.GetIssues(IncludeResolved, MaxResults);
+        }
 
-		[HttpGet]
-		public IssueData Get(long id)
-		{
-			return SqlConnector.GetIssue(id);
-		}
+        [HttpGet]
+        [ExactQueryParam("user")]
+        public async Task<List<IssueData>> Get([FromQuery] string User)
+        {
+            return await _MySqlConnector.GetIssues(User);
+        }
 
-		[HttpPut]
-		public void Put(long id, IssueUpdateData Issue)
-		{
-			SqlConnector.UpdateIssue(id, Issue);
-		}
+        [HttpGet]
+        [Route("{id}")]
+        public async Task<IssueData> Get(long id)
+        {
+            return await _MySqlConnector.GetIssue(id);
+        }
 
-		[HttpPost]
-		public object Post(IssueData Issue)
-		{
-			long IssueId = SqlConnector.AddIssue(Issue);
-			return new { Id = IssueId };
-		}
+        [HttpPut]
+        public async Task<long> Put(long id, IssueUpdateData Issue)
+        {
+            return await _MySqlConnector.UpdateIssue(id, Issue);
+        }
 
-		[HttpDelete]
-		public void Delete(long id)
-		{
-			SqlConnector.DeleteIssue(id);
-		}
-	}
+        [HttpPost]
+        public async Task<object> Post(IssueData Issue)
+        {
+            long IssueId = await _MySqlConnector.AddIssue(Issue);
+            return new { Id = IssueId };
+        }
 
-	public class IssueBuildsSubController : ApiController
-	{
-		[HttpGet]
-		public List<IssueBuildData> Get(long IssueId)
-		{
-			return SqlConnector.GetBuilds(IssueId);
-		}
+        [HttpDelete]
+        public async Task<long> Delete(long id)
+        {
+            return await _MySqlConnector.DeleteIssue(id);
+        }
 
-		[HttpPost]
-		public object Post(long IssueId, [FromBody] IssueBuildData Data)
-		{
-			long BuildId = SqlConnector.AddBuild(IssueId, Data);
-			return new { Id = BuildId };
-		}
-	}
+       
+    }
 
-	public class IssueDiagnosticsSubController : ApiController
-	{
-		[HttpGet]
-		public List<IssueDiagnosticData> Get(long IssueId)
-		{
-			return SqlConnector.GetDiagnostics(IssueId);
-		}
+    [Route("api/issues/{IssueId}/builds")]
+    [ApiController]
+    public class IssueBuildsSubController : ControllerBase
+    {
+        private readonly IMySqlConnector _MySqlConnector;
+        public IssueBuildsSubController(IMySqlConnector MySqlConnector)
+        {
+            _MySqlConnector = MySqlConnector;
+        }
 
-		[HttpPost]
-		public void Post(long IssueId, [FromBody] IssueDiagnosticData Data)
-		{
-			SqlConnector.AddDiagnostic(IssueId, Data);
-		}
-	}
+        [HttpGet]
+        public async Task<List<IssueBuildData>> Get(long IssueId)
+        {
+            return await _MySqlConnector.GetBuilds(IssueId);
+        }
 
-	public class IssueBuildsController : ApiController
-	{
-		[HttpGet]
-		public IssueBuildData Get(long BuildId)
-		{
-			return SqlConnector.GetBuild(BuildId);
-		}
+        [HttpPost]
+        public async Task<object> Post(long IssueId, [FromBody] IssueBuildData Data)
+        {
+            long BuildId = await _MySqlConnector.AddBuild(IssueId, Data);
+            return new { Id = BuildId };
+        }
+    }
 
-		[HttpPut]
-		public void Put(long BuildId, [FromBody] IssueBuildUpdateData Data)
-		{
-			SqlConnector.UpdateBuild(BuildId, Data.Outcome);
-		}
-	}
+    [Route("api/issues/{IssueId}/diagnostics")]
+    [ApiController]
+    public class IssueDiagnosticsSubController : ControllerBase
+    {
+        private readonly IMySqlConnector _MySqlConnector;
+        public IssueDiagnosticsSubController(IMySqlConnector MySqlConnector)
+        {
+            _MySqlConnector = MySqlConnector;
+        }
 
-	public class IssueWatchersController : ApiController
-	{
-		[HttpGet]
-		public List<string> Get(long IssueId)
-		{
-			return SqlConnector.GetWatchers(IssueId);
-		}
+        [HttpGet]
+        public async Task<List<IssueDiagnosticData>> Get(long IssueId)
+        {
+            return await _MySqlConnector.GetDiagnostics(IssueId);
+        }
 
-		[HttpPost]
-		public void Post(long IssueId, [FromBody] IssueWatcherData Data)
-		{
-			SqlConnector.AddWatcher(IssueId, Data.UserName);
-		}
+        [HttpPost]
+        public async Task<long> Post(long IssueId, [FromBody] IssueDiagnosticData Data)
+        {
+            return await _MySqlConnector.AddDiagnostic(IssueId, Data);
+        }
+    }
 
-		[HttpDelete]
-		public void Delete(long IssueId, [FromBody] IssueWatcherData Data)
-		{
-			SqlConnector.RemoveWatcher(IssueId, Data.UserName);
-		}
-	}
+    [Route("api/issuebuilds/{BuildId}")]
+    [ApiController]
+    public class IssueBuildsController : ControllerBase
+    {
+        private readonly IMySqlConnector _MySqlConnector;
+        public IssueBuildsController(IMySqlConnector MySqlConnector)
+        {
+            _MySqlConnector = MySqlConnector;
+        }
+
+        [HttpGet]
+        public async Task<IssueBuildData> Get(long BuildId)
+        {
+            return await _MySqlConnector.GetBuild(BuildId);
+        }
+
+        [HttpPut]
+        public async Task<long> Put(long BuildId, [FromBody] IssueBuildUpdateData Data)
+        {
+            return await _MySqlConnector.UpdateBuild(BuildId, Data.Outcome);
+        }
+    }
+
+    [Route("api/issues/{IssueId}/watchers")]
+    [ApiController]
+    public class IssueWatchersController : ControllerBase
+    {
+        private readonly IMySqlConnector _MySqlConnector;
+        public IssueWatchersController(IMySqlConnector MySqlConnector)
+        {
+            _MySqlConnector = MySqlConnector;
+        }
+
+        [HttpGet]
+        public async Task<List<string>> Get(long IssueId)
+        {
+            return await _MySqlConnector.GetWatchers(IssueId);
+        }
+
+        [HttpPost]
+        public async Task<long> Post(long IssueId, [FromBody] IssueWatcherData Data)
+        {
+            return await _MySqlConnector.AddWatcher(IssueId, Data.UserName);
+        }
+
+        [HttpDelete]
+        public async Task<long> Delete(long IssueId, [FromBody] IssueWatcherData Data)
+        {
+            return await _MySqlConnector.RemoveWatcher(IssueId, Data.UserName);
+        }
+    }
 }

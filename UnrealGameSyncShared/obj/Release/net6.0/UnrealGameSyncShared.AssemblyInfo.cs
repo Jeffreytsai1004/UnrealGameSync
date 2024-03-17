@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UnrealGameSyncShared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d127cd6574be042a46849e93283897379cab36c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("UnrealGameSyncShared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UnrealGameSyncShared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

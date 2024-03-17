@@ -28,13 +28,13 @@ namespace UnrealGameSync
 		/// <summary>
 		/// SQL connection string used to connect to the database for telemetry and review data.
 		/// </summary>
-		public string? ApiUrl { get; set; }
+		public string? ApiUrl { get; set; } = null;
 
-		/// <summary>
-		/// Servers to connect to for issue details by default
-		/// </summary>
+        /// <summary>
+        /// Servers to connect to for issue details by default
+        /// </summary>
 #pragma warning disable CA2227 // Collection properties should be read only
-		public List<string> DefaultIssueApiUrls { get; set; } = new List<string>();
+        public List<string> DefaultIssueApiUrls { get; set; } = new List<string>();
 #pragma warning restore CA2227 // Collection properties should be read only
 
 		/// <summary>
@@ -48,10 +48,10 @@ namespace UnrealGameSync
 		/// </summary>
 		public string? DefaultDepotPath { get; set; } = null;
 
-		/// <summary>
-		/// Depot path to sync additional tools from
-		/// </summary>
-		public string? ToolsDepotPath { get; set; } = null;
+        /// <summary>
+        /// Depot path to sync additional tools from
+        /// </summary>
+        public string? ToolsDepotPath { get; set; } = null;
 
 		/// <summary>
 		/// DSN for sending crash reports to Sentry.
